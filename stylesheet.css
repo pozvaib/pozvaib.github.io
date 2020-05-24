@@ -1,8 +1,9 @@
 body	
 	{
+
 		color: white;
 		font-family: verdana;
-		background: darkorange;
+		background: green;
 		font-size: 20px;
 	}
 h1, h2, h3
@@ -49,7 +50,7 @@ p
 	}	
 p.pe1
 	{
-		background-color: orange;
+		background-color: green;
 		padding: 20px;
 		border: black 2px solid;
 		margin-left: auto;
@@ -57,7 +58,7 @@ p.pe1
 	}
 p.pf
 	{
-		background-color: orange;
+		background-color: darkgreen;
 		padding: 20px;
 		border: black 2px solid;
 		border-radius: 10px;
@@ -81,10 +82,12 @@ div{
 	}
 a:link{
 	color: black;
+	text-decoration: none;
 }
 a:visited{
 	color: black;
+	text-decoration: none;
 }
 a:hover{
-	color: darkblue;
+	color: yellow;
 }
